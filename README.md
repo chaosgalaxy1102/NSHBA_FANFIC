@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>By Chaos_Galaxy - A Fanfiction of Nine Star Hegemon Body Art</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        .ebook-container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .download-btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 18px;
+            color: white;
+            background-color: red;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .download-btn:hover {
+            background-color: darkred;
+        }
+    </style>
+</head>
+<body>
+    <div class="ebook-container">
+        <h1>By Chaos_Galaxy</h1>
+        <p>A Fanfiction of Nine Star Hegemon Body Art</p>
+        <a href="https://drive.google.com/drive/folders/1My_bPLy5G-yBlyZKkjDw0rXZCnMjcwDD?usp=drive_link" class="download-btn">Download eBook</a>
+    </div>
+</body>
+</html>
